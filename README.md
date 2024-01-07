@@ -33,11 +33,12 @@ Demonstrates strong analytical and problem-solving skills, with the ability to d
 
 ## 📚 Others
 
-👩‍💻 Currently dedicated to my graduation project, involving a chemical experiment with VR.
+👩‍💻 Currently dedicated to my graduation project, involving a chemical experiment with ![VR](https://img.shields.io/badge/Virtual%20Reality-1A1A1A?style=flat&logo=virtualbox&logoColor=white)
+.
 
 🧠 Actively expanding knowledge in ![DevOps](https://img.shields.io/badge/DevOps-333333?style=flat&logo=dev.to)
-,![Cloud](https://img.shields.io/badge/Cloud-0089D6?style=flat&logo=google-cloud&logoColor=white)
-  and ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Cloud](https://img.shields.io/badge/Cloud-0089D6?style=flat&logo=google-cloud&logoColor=white)
+   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 .
 
 
