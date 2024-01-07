@@ -18,15 +18,15 @@ I'm a dedicated software engineer striving to reach my full potential. Currently
 
 Experienced in utilizing Python to develop applications and solutions, leveraging its powerful libraries and frameworks for various projects.
 
-MySQL
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 Proficient in designing and managing relational databases, with a specialized focus on MySQL.
 
-Web Development
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; & ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 Skilled in crafting and styling web pages using HTML and CSS for an enhanced user experience.
 
-Problem Solving
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%E2%9A%A1%EF%B8%8F-yellow?style=flat)
 
 Demonstrates strong analytical and problem-solving skills, with the ability to devise innovative solutions to challenges
 
