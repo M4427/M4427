@@ -22,7 +22,7 @@ Experienced in utilizing Python to develop applications and solutions, leveragin
 
 Proficient in designing and managing relational databases, with a specialized focus on MySQL.
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; & ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;  &  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 Skilled in crafting and styling web pages using HTML and CSS for an enhanced user experience.
 
