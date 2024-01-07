@@ -14,7 +14,7 @@ I'm a dedicated software engineer striving to reach my full potential. Currently
 
 
 ## 🛠 Skills
-Python
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 Experienced in utilizing Python to develop applications and solutions, leveraging its powerful libraries and frameworks for various projects.
 
