@@ -35,7 +35,10 @@ Demonstrates strong analytical and problem-solving skills, with the ability to d
 
 👩‍💻 Currently dedicated to my graduation project, involving a chemical experiment with VR.
 
-🧠 Actively expanding knowledge in DevOps, Cloud technologies, and Linux.
+🧠 Actively expanding knowledge in ![DevOps](https://img.shields.io/badge/DevOps-333333?style=flat&logo=dev.to)
+,![Cloud](https://img.shields.io/badge/Cloud-0089D6?style=flat&logo=google-cloud&logoColor=white)
+  and ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+.
 
 
 ## 🔗 Links
