@@ -14,32 +14,23 @@ I'm a dedicated software engineer striving to reach my full potential. Currently
 
 
 ## 🛠 Skills
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp; ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp; ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) &nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
-Experienced in utilizing Python to develop applications and solutions, leveraging its powerful libraries and frameworks for various projects.
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-Proficient in designing and managing relational databases, with a specialized focus on MySQL.
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;  &  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-
-Skilled in crafting and styling web pages using HTML and CSS for an enhanced user experience.
+Experienced in utilizing Python and SQL Server to develop robust applications with a focus on efficiency and performance. Proficient in crafting and styling web pages using HTML and CSS for an enhanced user experience. Proficient in utilizing Git and GitHub for version control and collaborative software development, seamlessly integrating these tools into the development workflow.
 
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-%E2%9A%A1%EF%B8%8F-yellow?style=flat)
 
-Demonstrates strong analytical and problem-solving skills, with the ability to devise innovative solutions to challenges
+Demonstrates strong analytical and problem-solving skills, with the ability to devise innovative solutions to challenges.
 
+Currently learning and exploring:
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+- ![DevOps](https://img.shields.io/badge/-DevOps-0175C2?style=flat&logo=azure-devops&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
 
-## 📚 Others
+Continuously striving to expand knowledge and expertise in Node.js, Docker, Linux, AWS, and DevOps methodologies to enhance deployment and infrastructure management.
 
-👩‍💻 Currently dedicated to my graduation project, involving a chemical experiment with ![VR](https://img.shields.io/badge/Virtual%20Reality-1A1A1A?style=flat&logo=virtualbox&logoColor=white)
-.
-
-🧠 Actively expanding knowledge in ![DevOps](https://img.shields.io/badge/DevOps-333333?style=flat&logo=dev.to)
-![Cloud](https://img.shields.io/badge/Cloud-0089D6?style=flat&logo=google-cloud&logoColor=white)
-   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-.
 
 
 ## 🔗 Links
